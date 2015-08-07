@@ -34,3 +34,21 @@ hr {
   font-size: 1.5em;
 }
 
+@media screen and (max-width: 460px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 18px
+  }
+
+  .img-work {
+    max-width: 75%;
+  }
+
+  .work-text {
+    font-size: 30px;
+  }
+
+}
