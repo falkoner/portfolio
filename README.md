@@ -8,4 +8,4 @@ Solutions provided:
 * using Bootstrap framework
 * using pure css (TODO)
 
-Not deployed.
+Deployed at [http://falkoner.github.io/portfolio/](http://falkoner.github.io/portfolio/)
